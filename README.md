@@ -1,6 +1,6 @@
 # Wraps met kip
 
-!(/wraps-met-kip_v-1.jpg)
+![](/wraps-met-kip_v-1.jpg).
 
 ## Benodigdheiden
 
